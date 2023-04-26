@@ -56,27 +56,56 @@ h4{
     font-weight: 840;
     font-size: 32px;
     line-height: 151.5%;
+    text-align: center;
     /* or 48px */
 
 
     color: #3271B0;
 }
+h5{
+    font-family: 'KyivType Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-align: center;
 
-h5, h6{
-        font-family: 'Kurale';
+color: #3A78B4;
+
+}
+
+h6{
+    font-family: 'Kurale';
     font-style: normal;
-    font-weight: 840;
-    font-size: 32px;
-    line-height: 151.5%;
-    /* or 48px */
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+
+    align-items: center;
+    text-align: center;
+    
     color: #3271B0;
 }
 
 .text{
     font-family: 'Alegreya';
     font-style: normal;
-    font-weight: 800;
-    font-size: 22.4794px;
+    font-weight: 600;
+    font-size: 12.4794px;
+    line-height: 151.5%;
+    /* or 34px */
+
+
+    color: #3271B0;
+}
+
+.text_uslugi{
+    font-family: 'Alegreya';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 8.4794px;
     line-height: 151.5%;
     /* or 34px */
 
@@ -191,6 +220,25 @@ hr{
     height: 80px;
   }
 
+.my-button-carousel{
+    box-sizing: border-box;
+    width: 238.5px;
+    height: 51.37px;
+    font-family: 'Playfair Display SC';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23.3741px;
+    line-height: 28px;
+    color: #FFFFFF;
+    background: linear-gradient(360deg, #99CCCC 0.73%, #3271B0 31.2%, #3271B0 60.69%, #99CCCC 100%);
+    border-radius: 11.687px;
+}
+
+  .carousel-item {
+  height: 400px;
+}
+
+
   .carousel-item img {
     max-height: 400px;
     object-fit: cover;
@@ -232,3 +280,22 @@ hr{
     }
   }
   
+  .center-text {
+    margin-bottom: calc(2 * 3rem);
+  }
+
+  .rectangle {
+    background-color: rgba(50, 113, 176, 0.22);
+    margin: 20px 0;
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+  
+  @media (max-width: 768px) {
+    .rectangle:nth-of-type(3),
+    .rectangle:nth-of-type(4) {
+      margin-top: 40px;
+    }
+  }
