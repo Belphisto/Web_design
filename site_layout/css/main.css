@@ -88,17 +88,30 @@ h6{
     
     color: #3271B0;
 }
+.text_otzovi
+{
+    font-family: 'Kurale';
+
+    font-weight: 840;
+    font-size: 24px;
+    line-height: 151.5%;
+    /* or 36px */
+
+
+    color: #000000;
+}
 
 .text{
     font-family: 'Alegreya';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 12.4794px;
-    line-height: 151.5%;
-    /* or 34px */
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+display: flex;
+align-items: center;
+text-align: center;
 
-
-    color: #3271B0;
+color: #3271B0;
 }
 
 .text_uslugi{
@@ -299,3 +312,5 @@ hr{
       margin-top: 40px;
     }
   }
+
+  
