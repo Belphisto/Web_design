@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Kurale&family=Playfair+Display+SC&display=swap');
+
+body{
+    background-color: #DDFFFF;
+
+    font-family: "Alegreya";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22.4794px;
+    line-height: 151.5%;
+    color: #3271B0;
+
+    -webkit-font-smoothing: subpixel-antialiased;
+    -webkit-overflow-scrolling: touch;
+    margin-top: 70px;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display SC';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 85px;
+
+    background: radial-gradient(50% 50% at 50% 50%, #99CCCC 0%, #3271B0 41.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+h3, h4, h5, h6{
+        font-family: 'Kurale';
+    font-style: normal;
+    font-weight: 840;
+    font-size: 32px;
+    line-height: 151.5%;
+    /* or 48px */
+
+
+    color: #3271B0;
+}
+
