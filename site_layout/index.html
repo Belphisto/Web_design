@@ -11,31 +11,16 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/main.css">
+        <script src="js/my.js"> </script>
+        <script src="js/script2.js"> </script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
         
           
-        <script>
-            // Activate the carousel
-$('.carousel').carousel({
-  interval: false
-});
-
-// Enable carousel control buttons
-$('#carouselExampleControls').on('slide.bs.carousel', function () {
-  $('.carousel-control-prev, .carousel-control-next').removeClass('disabled');
-});
-
-// Disable carousel control buttons at the ends
-$('#carouselExampleControls').on('slid.bs.carousel', function () {
-  var $carousel = $(this);
-  if ($('.carousel-item:first', $carousel).hasClass('active')) {
-    $('.carousel-control-prev', $carousel).addClass('disabled');
-  } else if ($('.carousel-item:last', $carousel).hasClass('active')) {
-    $('.carousel-control-next', $carousel).addClass('disabled');
-  }
-});
+        
 
 
-        </script>
+
     </head>
 
     <body>
@@ -279,7 +264,7 @@ $('#carouselExampleControls').on('slid.bs.carousel', function () {
 
           <div class="empty-block"></div>  </div> 
 
-          <div class="container-fluid p-2">
+          <div class="container-fluid p-4">
               <div class="row g-0">
                 <div class="col-md-12">
   
@@ -288,8 +273,11 @@ $('#carouselExampleControls').on('slid.bs.carousel', function () {
                         </div>
                         <div class="container">
                             <div class="row">
-                              <div class="col-2">
+                              <div class="col-3">
                                 <img src="images/image 36.png" alt="Image">
+                              </div>
+                              <div class="col-2">
+                                
                               </div>
                               <div class="col-3">
                                 <text_otzovi>ФИО</text_otzovi>
@@ -415,6 +403,71 @@ $('#carouselExampleControls').on('slid.bs.carousel', function () {
               </div>
             </div>
 
+
+            <div class="empty-block"></div>
+
+            <div class="section-reg">
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6 offset-md-3">
+                    <h2>Записаться на консультацию по подбору аквариума</h2>
+                    <form>
+                      <div class="form-group">
+                        <label for="username">Ваше имя</label>
+                        <input type="text" class="form-control" id="username" placeholder="введите имя">
+                      </div>
+                      <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="Введите email">
+                      </div>
+                      <button type="button" class="my-button-reg" data-bs-toggle="modal" data-bs-target="#exampleModal">Записаться</button>
+                      <!-- Модальное окно -->
+                      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <h5 class="modal-title" id="exampleModalLabel">Спасибо за запись!</h5>
+                              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Закрыть"></button>
+                            </div>
+                            <div class="modal-body">
+                              <text> Мы свяжемся с вами в ближайшее время</text>
+                            </div>
+                            <div class="modal-footer">
+                              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Закрыть</button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            
+              
+            </div>
+
+
+            
+
+  <div class="empty-block"></div>
+
+  <div class="section-contacts">
+              
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 ">
+          
+          <img src="images/image 34.png" alt="Image">
+        </div>
+        <div class="col-md-3 offset-md-3">
+          <img src="images/Group 17.png" alt="Image">
+        </div>
+        </div>
+      </div>
+      
+
+    </div>
+    
 
 
   <div class="empty-block"></div>

@@ -63,7 +63,7 @@ h4{
     color: #3271B0;
 }
 h5{
-    font-family: 'KyivType Sans';
+    font-family: 'Playfair Display SC';
 font-style: normal;
 font-weight: 700;
 font-size: 32px;
@@ -165,6 +165,40 @@ hr{
     background: linear-gradient(360deg, #99CCCC 0.73%, #3271B0 31.2%, #3271B0 60.69%, #99CCCC 100%);
     border-radius: 11.687px;
 
+}
+.my-button:hover {
+  background: linear-gradient(360deg, #b7f4f4 0.73%, #3f90e0 31.2%, #3c89d7 60.69%, #b7f1f1 100%);
+}
+.my-button:active {
+  background: linear-gradient(360deg, #3271B0 0.73%, #99CCCC 31.2%, #99CCCC 60.69%, #3271B0 100%);
+  }
+
+  .my-button-reg{
+    box-sizing: border-box;
+    margin: 20px 0;
+    width: 208.5px;
+    height: 51.37px;
+    font-family: 'Playfair Display SC';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23.3741px;
+    line-height: 28px;
+    color: #FFFFFF;
+    background: linear-gradient(360deg, #99CCCC 0.73%, #3271B0 31.2%, #3271B0 60.69%, #99CCCC 100%);
+    border-radius: 11.687px;
+
+}
+
+.section-reg {
+  background-color: #3271B0;
+}
+
+.section-contacts{
+  background-color: #3271B0;
+}
+
+.section-contacts img {
+  margin: 40px 0;
 }
 
 .my-carousel-button{
@@ -313,4 +347,22 @@ hr{
     }
   }
 
+  .overlay {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.7);
+    z-index: 9999;
+  }
   
+  .overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    color: #fff;
+  }
