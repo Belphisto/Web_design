@@ -281,52 +281,6 @@ hr{
     border-radius: 11.687px;
 }
 
-  .carousel-item {
-  height: 400px;
-}
-
-
-  .carousel-item img {
-    max-height: 400px;
-    object-fit: cover;
-  }
-  
-  .carousel-item.active,
-  .carousel-item-next,
-  .carousel-item-prev {
-    display: flex !important;
-  }
-  
-  .carousel-item-next,
-  .carousel-item-prev {
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
-  
-  .carousel-item-next.carousel-item-left,
-  .carousel-item-prev.carousel-item-right {
-    transform: translateX(0);
-  }
-  
-  @media (min-width: 992px) {
-    .carousel-item-next.carousel-item-left,
-    .carousel-item-prev.carousel-item-right {
-      transform: translateX(50%);
-    }
-    
-    .carousel-item-next,
-    .carousel-item-prev {
-      transform: translateX(0);
-      display: block;
-      opacity: 0.5;
-    }
-  
-    .carousel-item.active {
-      opacity: 1;
-    }
-  }
-  
   .center-text {
     margin-bottom: calc(2 * 3rem);
   }
