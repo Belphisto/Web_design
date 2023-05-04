@@ -1,0 +1,16 @@
+<nav class="navbar navbar-expand-lg bg-black" height="55">
+        <div class="container">
+          <a class="navbar-brand" href="http://s98210s6.beget.tech">
+            <img src="<?php bloginfo('template_directory') ?>\images\Group 9.png" alt="Bootstrap" width="150" height="55">
+          </a>
+          <div class="collapse navbar-collapse" style="margin: 0px 0px 0px 300px;" id="navbarSupportedContent">
+          <?php wp_nav_menu( array(
+            'menu'                 => 'top-menu',
+            'menu_class'           => 'navbar-nav font-weight-extra-bold ml-auto',
+            'container'            => '',
+            'li_class'             => 'nav-item',
+            'a_class'             => 'nav-link',     
+          )); ?>
+          </div>
+        </div>
+      </nav>

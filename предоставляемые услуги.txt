@@ -1,0 +1,48 @@
+<div class="container-fluid p-2">
+            <div class="row g-0">
+              <div class="col-md-12">
+
+                    <div class="row center-text">
+                        <h6 id = "uslugi">Предоставляемые услуги</h6>
+                      </div>
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-3 ">
+                            <div class="rectangle">
+                                <h4>Что-то 1</h4>
+                                <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-6.png" alt="" width="201" height="228" class="alignnone size-full wp-image-19" />
+                                <h4></h4>
+                                <text>Что-то что-то что-то что=-точто чо куке укеукеу укеук укеуке уке укеук еукеукеЧто-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо </text>
+                            </div>
+                          </div>
+                          <div class="col-md-3 ">
+                            <div class="rectangle">
+                                <h4>Что-то 2</h4>
+                                <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-5.png" alt="" width="147" height="165" class="alignnone size-full wp-image-18" />
+                                <h4></h4>
+                                <text>Что-то что-то чукеук еукето-то что=-точтке укеуке укеукеу кеу кеук укеу кеук уке укеук еукеукеукео чо Что-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо</text>
+                            </div>
+                          </div>
+                          <div class="col-md-3 ">
+                            <div class="rectangle">
+                                <h4>Что-то 3</h4>
+                                <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-7.png" alt="" width="163" height="173" class="alignnone size-full wp-image-20" />
+                                <h4></h4>
+                                <text>Что-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чоЧто-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо </text>
+                            </div>
+                          </div>
+                          <div class="col-md-3 ">
+                            <div class="rectangle">
+                                <h4>Что-то 4</h4>
+                                <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-18.png" alt="" width="162" height="179" class="alignnone size-full wp-image-27" />
+                                <h4></h4>
+                                <text>Что-то что-то что-то чт укеуке укеу к еуке укеукеукеукеукеукеуке укеуке укеук у кеуко=-точто чо Что-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо</text>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+          </div>
+
+        <div class="empty-block"></div>  </div> 

@@ -1,0 +1,57 @@
+<div class="container-fluid p-2">
+            <div class="row g-0">
+              <div class="col-md-12">
+
+                    <div class="row center-text">
+                        <h6 id = "info_assortiment">Информация об ассортименте</h6>
+                      </div>
+
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-3">
+                            <div class="col-md"><img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-10.png" class="img-fluid" /></div>
+                            <div class="empty-block"></div>
+                            <div class="col-md"><img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-12.png" class="img-fluid" /></div>
+                          </div>
+
+                          <div class="col-md-3">
+                           <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-28.png" class="img-fluid" />
+                          </div>
+                          
+                          <div class="col-md-6">
+                            <div class="row">
+                              <div class="col-md-12">
+                                <div class="row">
+                                  <div class="col-md-12">
+                                    <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-29.png" class="img-fluid"/>
+                                    <div class="empty-block"></div>
+                                  </div>
+                                  <div class="col-md-6">
+                                    <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-20.png" class="img-fluid" />
+                                  </div>
+                                  <div class="col-md-6">
+                                    <img src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-11.png" class="img-fluid" />
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="empty-block"></div>
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-6">
+                            <text>Какой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекст</text>
+                          </div>
+                          <div class="col-md-6">
+                            <text>Какой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекст</text>
+                          </div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+          </div>
+
+
+        <div class="empty-block"></div>  </div> 

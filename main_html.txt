@@ -1,0 +1,241 @@
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-1"></div>
+<div class="col-md-5 dark_rectangle">
+<div class="row">
+<div class="col-md-6"></div>
+<div class="text-block">
+<div style="height: 2rem;"></div>
+<h2>Аквариумная студия</h2>
+<div style="height: 2rem;"></div>
+<h3>Получите индивидуальную консультацию по оформлению и содержанию вашего индивидуального и неповторимого аквариума.</h3>
+<div style="height: 2rem;"></div>
+<h3>От специалиста с опытом работы более 5 лет в самых разных уголках России</h3>
+<form action="http://s98210s6.beget.tech/%d0%b7%d0%b0%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c%d1%81%d1%8f/" target="_blank"><button class="my-button" style="margin-top: 3rem;">Записаться</button></form></div>
+</div>
+</div>
+<div class="col-md-6"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-3.png" /></div>
+</div>
+<div class="empty-block"></div>
+</div>
+<div class="container-fluid">
+<div class="row">
+<div class="col-md-1"></div>
+<div class="col-md-5 dark_rectangle">
+<div class="row">
+<div class="col-md-1"></div>
+<h4>Добро пожаловать в нашу аквариумную студию</h4>
+В нашей студии мы создаем не только прекрасные аквариумы, но и целые подводные миры, где живые существа чувствуют себя комфортно и здорово. Мы работаем вместе с нашими клиентами, чтобы понять их пожелания и воплотить их в жизнь. Наша команда состоит из экспертов, которые могут помочь вам выбрать самые подходящие виды рыб и растений, создать красивые декорации и обеспечить правильный баланс в аквариуме.
+
+</div>
+</div>
+<div class="col-md-6"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-19.png" /></div>
+</div>
+<div class="empty-block"></div>
+</div>
+<div class="container-fluid p-2">
+<div class="row g-0">
+<div class="col-md-12">
+<div class="row center-text">
+<h6 id="uslugi">Предоставляемые услуги</h6>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-3 ">
+<div class="rectangle">
+<h4>Что-то 1</h4>
+<img class="alignnone size-full wp-image-19" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-6.png" alt="" width="201" height="228" />
+<h4></h4>
+Что-то что-то что-то что=-точто чо куке укеукеу укеук укеуке уке укеук еукеукеЧто-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо
+
+</div>
+</div>
+<div class="col-md-3 ">
+<div class="rectangle">
+<h4>Что-то 2</h4>
+<img class="alignnone size-full wp-image-18" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-5.png" alt="" width="147" height="165" />
+<h4></h4>
+Что-то что-то чукеук еукето-то что=-точтке укеуке укеукеу кеу кеук укеу кеук уке укеук еукеукеукео чо Что-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо
+
+</div>
+</div>
+<div class="col-md-3 ">
+<div class="rectangle">
+<h4>Что-то 3</h4>
+<img class="alignnone size-full wp-image-20" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-7.png" alt="" width="163" height="173" />
+<h4></h4>
+Что-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чоЧто-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо
+
+</div>
+</div>
+<div class="col-md-3 ">
+<div class="rectangle">
+<h4>Что-то 4</h4>
+<img class="alignnone size-full wp-image-27" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-18.png" alt="" width="162" height="179" />
+<h4></h4>
+Что-то что-то что-то чт укеуке укеу к еуке укеукеукеукеукеукеуке укеуке укеук у кеуко=-точто чо Что-то что-то что-то ч укеу еукеукеу кукуекеукеукеуке уке укеуке то=-точто чо
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="empty-block"></div>
+<div class="container-fluid p-2">
+<div class="row g-0">
+<div class="col-md-12">
+<div class="row center-text">
+<h6 id="info_assortiment">Информация об ассортименте</h6>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+<div class="col-md"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-10.png" /></div>
+<div class="empty-block"></div>
+<div class="col-md"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-12.png" /></div>
+</div>
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-28.png" /></div>
+<div class="col-md-6">
+<div class="row">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-29.png" />
+<div class="empty-block"></div>
+</div>
+<div class="col-md-6"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-20.png" /></div>
+<div class="col-md-6"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-11.png" /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="empty-block"></div>
+<div class="container">
+<div class="row">
+<div class="col-md-6">Какой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекст</div>
+<div class="col-md-6">Какой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекстКакой-тотекст</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="empty-block"></div>
+<div class="container-fluid p-2">
+<div class="row g-0">
+<div class="col-md-14">
+<div class="d-flex justify-content-center">
+<div id="carouselExampleControls" class="carousel slide w-250 mx-auto" data-bs-ride="carousel">
+<div class="container-fluid">
+<div class="row center-text">
+<h6 id="ourstudia">Наша студия</h6>
+</div>
+<div class="carousel-inner">
+<div class="carousel-item active">
+<div class="row">
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-13.png" /></div>
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-15.png" /></div>
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-14.png" /></div>
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-35.png" /></div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row">
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-13.png" /></div>
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-15.png" /></div>
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-14.png" /></div>
+<div class="col-md-3"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-35.png" /></div>
+</div>
+</div>
+</div>
+<div class="row center-text"></div>
+<div class="d-flex justify-content-center"><button class="my-button my-button-carousel mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+<span class="visually">Previous</span>;
+</span></button>
+<button class="my-button my-button-carousel mx-4" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+<span class="visually">Next</span>;
+</span></button></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="empty-block"></div>
+<div class="empty-block"></div>
+<div class="container-fluid p-4">
+<div class="row g-0">
+<div class="col-md-12">
+<div class="row center-text">
+<h6 id="otzovi">Отзывы о нас</h6>
+</div>
+<div class="container">
+<div class="row flex-wrap align-items-center">
+<div class="col-md-3 col-12 mb-3 mb-md-0"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-36.png" /></div>
+<div class="col-md-3 col-12 mb-3 mb-md-0">ФИО
+ДОЛЖНОСТЬNNNN
+Какой-то текст Какой-то текст Какой-то текст</div>
+<div class="col-md-1"></div>
+<div class="col-md-2 col-12 mb-3 mb-md-0"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-38.png" /></div>
+<div class="col-md-3 col-12">ФИО
+ДОЛЖНОСТЬNNNN
+Какой-то текст Какой-то текст Какой-то текст</div>
+</div>
+</div>
+<div class="empty-block"></div>
+<div class="container">
+<div class="row flex-wrap align-items-center">
+<div class="col-md-3 col-12 mb-3 mb-md-0"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-37.png" /></div>
+<div class="col-md-3 col-12 mb-3 mb-md-0">ФИО
+ДОЛЖНОСТЬNNNN
+Какой-то текст Какой-то текст Какой-то текст</div>
+<div class="col-md-1"></div>
+<div class="col-md-2 col-12 mb-3 mb-md-0"><img class="img-fluid" src="http://s98210s6.beget.tech/wp-content/uploads/2023/05/image-39.png" /></div>
+<div class="col-md-3 col-12">ФИО
+ДОЛЖНОСТЬNNNN
+Какой-то текст Какой-то текст Какой-то текст</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="empty-block"></div>
+<div class="section-reg">
+<div class="container">
+<div class="row">
+<div class="col-md-6 offset-md-3">
+<h2 id="form">Записаться на консультацию по подбору аквариума</h2>
+<form>
+<div class="form-group"><label for="username">Ваше имя</label>
+<input id="username" class="form-control" type="text" placeholder="Введите имя" /></div>
+<div class="form-group"><label for="email">Email</label>
+<input id="email" class="form-control" type="email" placeholder="Введите email" /></div>
+<button id="submit-btn" class="my-button-reg" type="button">Записаться</button>
+
+</form></div>
+</div>
+</div>
+<!-- Модальное окно -->
+<div id="exampleModal" class="modal fade" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<h5 id="exampleModalLabel" class="modal-title">Спасибо за запись!</h5>
+&nbsp;
+
+</div>
+<div class="modal-body">
+
+Мы свяжемся с вами в ближайшее время
+
+</div>
+<div class="modal-footer"><button class="btn btn-secondary" type="button" data-bs-dismiss="modal">Закрыть</button></div>
+</div>
+</div>
+</div>
+</div>
+<script src="<?php bloginfo('template_directory') ?>/js/my.js"> </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+<div class="empty-block"></div>
